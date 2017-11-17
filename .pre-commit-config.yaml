@@ -1,0 +1,6 @@
+repos:
+-   repo: https://github.com/pre-commit/mirrors-yapf
+    sha: a4e5b0439f5b024e3d99c5fc9d187af555060dfc
+    hooks:
+    -   id: yapf
+        files: (.*\.py)$
