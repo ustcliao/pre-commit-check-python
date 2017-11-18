@@ -1,1 +1,2 @@
 Flask==0.12.2
+pre-commit=1.4.1
